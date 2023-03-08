@@ -15,9 +15,9 @@ The repository assumes the following folders. Datasets are automatically downloa
 
 📦 graphical-referential-game     
 ┣ 📂 src     
-  ┣ 📂 data   
-  ┣ 📂 results  
-  ┣ 📜 scripts  
+┣ ┣ 📂 data   
+┣ ┣ 📂 results  
+┣ ┣ 📜 scripts  
   
 # Dependencies
 Dependencies are listed in the ``dependencies.txt`` file
