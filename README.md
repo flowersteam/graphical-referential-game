@@ -13,11 +13,11 @@ To tackle the GREG this repository contains the CURVES algorithm: Contrastive Ut
 
 The repository assumes the following folders. Datasets are automatically downloaded and generated during the first experiment launch.
 
- 📦 graphical-referential-game
- ┣ 📂 src
-   ┣ 📂 data
-   ┣ 📂 results
-   ┣ 📜 scripts
+ 📦 graphical-referential-game     
+ ┣ 📂 src     
+   ┣ 📂 data   
+   ┣ 📂 results  
+   ┣ 📜 scripts  
   
 # Dependencies
 Dependencies are listed in the ``dependencies.txt`` file
