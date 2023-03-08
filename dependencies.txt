@@ -1,0 +1,10 @@
+numpy
+matplotlib
+seaborn
+torch
+torchvision
+scikit-learn
+scipy
+https://github.com/jonhare/DifferentiableSketching
+
+
